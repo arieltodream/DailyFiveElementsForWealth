@@ -1,47 +1,32 @@
 {
-  "2026-05-09": {
-    "dateStr": "2026年5月9日（六）",
-    "ganzhi": "丙午年癸巳月癸未日　火年火月土日",
-    "source": "土色系列（黃色、灰色、咖啡色）",
-    "dayBranch": "【火色系】",
-    "ranks": [
-      { "rank": 1, "element": "水", "score": 94, "benefits": ["◎財運大吉", "☆事業大吉"], "swatches": ["#4682B4", "#1E4D8C", "#000000"], "desc": "主色系穿水色（上衣＋褲子/裙子）" },
-      { "rank": 2, "element": "木", "score": 70, "benefits": ["◎財運大吉", "○盈利管道吉"], "swatches": ["#A8D5A2", "#2E8B57", "#20B2AA"], "desc": "" },
-      { "rank": 3, "element": "金", "score": 61, "benefits": ["☆事業大吉", "□八字喜用色"], "swatches": ["#F5F0E8", "#C0C0C0", "#F4E4C1"], "desc": "" }
-    ],
-    "bad": [
-      { "element": "火", "reason": "●貴人管道凶" },
-      { "element": "土", "reason": "★消極負面凶" }
-    ]
-  },
-  "2026-05-10": {
-    "dateStr": "2026年5月10日（日）",
-    "ganzhi": "丙午年癸巳月甲申日　火年火月金日",
+  "2025-07-19": {
+    "dateStr": "2025年7月19日（六）",
+    "ganzhi": "乙巳年癸未月己丑日　火年土月土日",
     "source": "土色系列（黃色、灰色、咖啡色）",
     "dayBranch": "【土色系】",
     "ranks": [
-      { "rank": 1, "element": "木", "score": 68, "benefits": ["☆事業大吉", "○盈利管道吉"], "swatches": ["#A8D5A2", "#2E8B57", "#20B2AA"], "desc": "主色系穿木色（上衣＋褲子/裙子）" },
-      { "rank": 2, "element": "金", "score": 61, "benefits": ["☆事業大吉", "□八字喜用色"], "swatches": ["#F5F0E8", "#C0C0C0", "#F4E4C1"], "desc": "" },
-      { "rank": 3, "element": "水", "score": 60, "benefits": ["◎財運大吉"], "swatches": ["#4682B4", "#1E4D8C", "#000000"], "desc": "" }
+      { "rank": 1, "element": "水", "score": 93, "benefits": ["◎財運大吉", "☆事業大吉"], "swatches": ["#4682B4", "#1E4D8C", "#000000"], "desc": "主色系穿水色（上衣＋褲子/裙子）" },
+      { "rank": 2, "element": "火", "score": 85, "benefits": ["○盈利管道吉"], "swatches": ["#FF4D4D", "#C71585", "#FF69B4"], "desc": "" },
+      { "rank": 3, "element": "木", "score": 73, "benefits": ["◎財運大吉", "○盈利管道吉"], "swatches": ["#A8D5A2", "#2E8B57", "#20B2AA"], "desc": "" }
     ],
     "bad": [
-      { "element": "火", "reason": "●貴人管道凶" },
-      { "element": "土", "reason": "★消極負面凶" }
+      { "element": "金", "reason": "★消極負面凶" },
+      { "element": "土", "reason": "★消極負面凶 ●貴人管道凶" }
     ]
   },
-  "2026-05-11": {
-    "dateStr": "2026年5月11日（一）",
-    "ganzhi": "丙午年癸巳月乙酉日　火年火月金日",
-    "source": "土色系列（黃色、灰色、咖啡色）",
-    "dayBranch": "【金色系】",
+  "2025-07-20": {
+    "dateStr": "2025年7月20日（日）",
+    "ganzhi": "乙巳年癸未月庚寅日　火年土月木日",
+    "source": "木色系列（淺綠色、深綠色、青色）",
+    "dayBranch": "【木色系】",
     "ranks": [
-      { "rank": 1, "element": "木", "score": 68, "benefits": ["☆事業大吉", "○盈利管道吉"], "swatches": ["#A8D5A2", "#2E8B57", "#20B2AA"], "desc": "主色系穿木色（上衣＋褲子/裙子）" },
-      { "rank": 2, "element": "金", "score": 61, "benefits": ["☆事業大吉", "□八字喜用色"], "swatches": ["#F5F0E8", "#C0C0C0", "#F4E4C1"], "desc": "" },
-      { "rank": 3, "element": "水", "score": 60, "benefits": ["◎財運大吉"], "swatches": ["#4682B4", "#1E4D8C", "#000000"], "desc": "" }
+      { "rank": 1, "element": "水", "score": 91, "benefits": ["◎財運大吉", "☆事業大吉", "○盈利管道吉"], "swatches": ["#4682B4", "#1E4D8C", "#000000"], "desc": "主色系穿水色（上衣＋褲子/裙子）" },
+      { "rank": 2, "element": "金", "score": 64, "benefits": ["☆事業大吉", "□八字喜用色"], "swatches": ["#F5F0E8", "#C0C0C0", "#F4E4C1"], "desc": "" }
     ],
     "bad": [
-      { "element": "火", "reason": "●貴人管道凶" },
-      { "element": "土", "reason": "★消極負面凶" }
+      { "element": "土", "reason": "★消極負面凶 ●貴人管道凶" },
+      { "element": "火", "reason": "★消極負面凶 ●貴人管道凶" }
     ]
   }
+  // ... （後續 28 天我會在下一則訊息繼續給你）
 }
